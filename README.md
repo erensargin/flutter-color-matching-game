@@ -1,6 +1,6 @@
-# flutter4
+# Color Matching Game
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
